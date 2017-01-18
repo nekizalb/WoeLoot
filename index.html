@@ -41,11 +41,10 @@ for(var i = 0; i<nodes.snapshotLength; i++){
 	bonuses += linkValues[13+j];
   }
   
-  var hrefLink = "<a href=\"www.wowhead.com/item=" + itemId +"\" ";
-  if(numBonuses > 0){
-    hrefLink += "rel=\"bonus=" + bonuses + "\"";
-  }
-  hrefLink += ">";
+  var hrefLink = "www.wowhead.com/item=" + itemId +"\" ";
+  //if(numBonuses > 0){
+  //  hrefLink += "rel=\"bonus=" + bonuses + "\"";
+  //}
   linkNode.singleNodeValue.textContent = hrefLink;
 }
 

@@ -17,7 +17,10 @@ xmlns:xs="http://www.w3.org/2001/XMLSchema">
     <tr>
       <td><xsl:value-of select='time'/></td>
       <td><xsl:value-of select="member" /></td>
-      <td><xsl:value-of select="itemid" /><xsl:value-of select="name" /><xsl:value-of select='&lt;/a&gt;' /></td>
+      <td><a><xsl:attribute name="href" >
+       <xsl:value-of select="itemid" />
+	   </xsl:attribute>
+	   <xsl:value-of select="name" /></a></td>
       <td><xsl:value-of select="note" /></td>
     </tr>
     </xsl:for-each>
