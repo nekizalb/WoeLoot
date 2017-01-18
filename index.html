@@ -22,6 +22,12 @@ function displayResult()
 {
 xml = loadXMLDoc("historyData/20170115.xml");
 xsl = loadXMLDoc("transform.xsl");
+
+xmlDoc.getElementsByTagName("/raidlog/raiddata/items/item/time").forEach (function (timeNode) {
+  timeNode.nodeValue = "a";
+});
+
+
 // code for IE
 if (window.ActiveXObject || xhttp.responseType == "msxml-document")
   {
