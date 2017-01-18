@@ -2,6 +2,9 @@
 <html>
 <head>
 <script type="text/javascript" src="//wow.zamimg.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
+<script type="text/javascript" src="https://jqwidgets.com/public/jqwidgets/jqx-all.js"></script>
+<link rel="stylesheet" type="text/css" href="https://jqwidgets.com/public/jqwidgets/styles/jqx.base.css">
+<link rel="stylesheet" type="text/css" href="https://jqwidgets.com/public/jqwidgets/styles/jqx.energyblue.css">
 <script>
 function loadXMLDoc(filename)
 {
@@ -52,7 +55,15 @@ for(var i = 0; i<nodes.snapshotLength; i++){
   }
 }
 
-
+  $("#jqxExpander").jqxExpander({
+      width: 200,
+      height: 100,
+      theme: 'energyblue'
+  });
+  $('#jqxExpander').on('collapsing', function () {
+      alert("Collapsing the expander");
+  });
+  
 // code for IE
 if (window.ActiveXObject || xhttp.responseType == "msxml-document")
   {
@@ -71,6 +82,11 @@ else if (document.implementation && document.implementation.createDocument)
 </script>
 </head>
 <body onload="displayResult()">
+
+<div id='jqxExpander'>
+    <div>Header</div>
+    <div>Content</div>
+</div>
 <div id="example" />
 </body>
 </html>
