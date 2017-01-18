@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet version="1.0"
-xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="2.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
 <xsl:template match="/">
   <h2>Woe Loot</h2>
@@ -14,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     </tr>
     <xsl:for-each select="raidlog/raiddata/items/item">
     <tr>
-      <td><xsl:value-of select='xs:dateTime("1970-01-01T00:00:00") + time * xs:dayTimeDuration("PT0.001S")' /></td>
+      <td><xsl:value-of select='time'/></td>
       <td><xsl:value-of select="member" /></td>
       <td><xsl:value-of select="name" /></td>
       <td><xsl:value-of select="note" /></td>
