@@ -34,7 +34,7 @@ else if (document.implementation && document.implementation.createDocument)
   xsltProcessor = new XSLTProcessor();
   xsltProcessor.importStylesheet(xsl);
   resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("example").appendChild(xml);
+  document.getElementById("example").appendChild(resultDocument);
   }
 }
 </script>
