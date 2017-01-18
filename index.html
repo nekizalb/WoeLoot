@@ -23,11 +23,11 @@ function displayResult()
 xml = loadXMLDoc("historyData/20170115.xml");
 xsl = loadXMLDoc("transform.xsl");
 
-var timeNodes = xml.evaluate("/raidlog/raiddata/items/item/time", xml, null, XPathResult.ANY_TYPE,null )
-var timeNode = timeNodes.iterateNext();
-while(timeNode)
-  timeNode.nodeValue = "a";
-  timeNode = timeNodes.iterateNext();
+var timeNodes = xml.evaluate("/raidlog/raiddata/items/item/time", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
+for(var i = 0; i<timeNodes.snapshotLength; i++){
+
+  var date  = new Date(timeNodes.snapshotItem(i).textContent * 1000);
+  timeNodes.snapshotItem(i).textContent = date.toLocaleString();
 }
 
 
