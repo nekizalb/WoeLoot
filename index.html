@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script type="text/javascript" src="//wow.zamimg.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
 <script>
 function loadXMLDoc(filename)
 {
@@ -23,11 +24,29 @@ function displayResult()
 xml = loadXMLDoc("historyData/20170115.xml");
 xsl = loadXMLDoc("transform.xsl");
 
-var timeNodes = xml.evaluate("/raidlog/raiddata/items/item/time", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
-for(var i = 0; i<timeNodes.snapshotLength; i++){
-
-  var date  = new Date(timeNodes.snapshotItem(i).textContent * 1000);
-  timeNodes.snapshotItem(i).textContent = date.toLocaleString();
+var nodes = xml.evaluate("/raidlog/raiddata/items/item", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
+for(var i = 0; i<nodes.snapshotLength; i++){
+  var timeNode = xml.evaluate(".//time", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+  var date  = new Date(timeNode.singleNodeValue.textContent * 1000);
+  timeNode.singleNodeValue.textContent = date.toLocaleString();
+  
+  var linkNode = xml.evaluate(".//itemid", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+  var link = linkNode.singleNodeValue.textContent;
+  var linkValues = link.split(":");
+  var itemId = linkValues[0];
+  var numBonuses = linkValues[12];
+  var bonuses = "";
+  for(var j = 0; j < numBonuses; j++){
+    if(j > 0) bonuses += ":";
+	bonuses += linkValues[13+j];
+  }
+  
+  var hrefLink = "<a href=\"www.wowhead.com/item=" + itemId +"\" ";
+  if(numBonuses > 0){
+    hrefLink += "rel=\"bonus=" + bonuses + "\"";
+  }
+  hrefLink += ">";
+  linkNode.singleNodeValue.textContent = hrefLink;
 }
 
 
