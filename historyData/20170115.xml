@@ -1,0 +1,193 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1484506800</enter>
+			<name>Trial of Valor-Mythic</name>
+			<leave>1484532800</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Brewharymore</name>
+			<time>1484541499</time>
+		</bosskill>
+		<bosskill>
+			<name>Xavius</name>
+			<time>1484531397</time>
+		</bosskill>
+		<bosskill>
+			<name>Xavius</name>
+			<time>1484531423</time>
+		</bosskill>
+		<bosskill>
+			<name>Brewharymore</name>
+			<time>1484541511</time>
+		</bosskill>
+		<bosskill>
+			<name>Brewharymore</name>
+			<time>1484541484</time>
+		</bosskill>
+		<bosskill>
+			<name>Xavius</name>
+			<time>1484531427</time>
+		</bosskill>
+		<bosskill>
+			<name>Brewharymore</name>
+			<time>1484541477</time>
+		</bosskill>
+		<bosskill>
+			<name>Xavius</name>
+			<time>1484531404</time>
+		</bosskill>
+		<bosskill>
+			<name>Brewharymore</name>
+			<time>1484541480</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>142519::::::::110:262::6:3:3469:1512:3336:::</itemid>
+			<name>Favor of the Prime Designate</name>
+			<member>Hav</member>
+			<time>1484541499</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Brewharymore</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139193::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Maddening Robe of Secrets</name>
+			<member>Hemileia</member>
+			<time>1484531397</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Xavius</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139189::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Hood of Darkened Visions</name>
+			<member>Hemileia</member>
+			<time>1484531423</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Xavius</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142508::::::::110:262::6:4:3469:605:1512:3336:::</itemid>
+			<name>Chains of the Valorous</name>
+			<member>Phylloxeras</member>
+			<time>1484541511</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Brewharymore</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142514::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Ravens' Sight</name>
+			<member>Unworthy</member>
+			<time>1484541484</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Brewharymore</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139335::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Grotesque Statuette</name>
+			<member>Scutums</member>
+			<time>1484531427</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Xavius</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142431::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Gleaming Val'kyr Cuirass</name>
+			<member>Scutums</member>
+			<time>1484541477</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Brewharymore</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139216::::::::110:262::6:3:1806:1808:1502:::</itemid>
+			<name>Disjointed Linkage Leggings</name>
+			<member>Valomend</member>
+			<time>1484531404</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Xavius</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142421::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Leggings of the Undaunted</name>
+			<member>Valomend</member>
+			<time>1484541480</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Brewharymore</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Hemileia</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+		<member>
+			<name>Hav</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+		<member>
+			<name>Valomend</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+		<member>
+			<name>Scutums</name>
+			<times>
+				<time type='join'>1484506800</time>
+				<time type='leave'>1484532800</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
