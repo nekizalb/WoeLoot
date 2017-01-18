@@ -31,6 +31,7 @@ for(var i = 0; i<nodes.snapshotLength; i++){
   timeNode.singleNodeValue.textContent = date.toLocaleString();
   
   var linkNode = xml.evaluate(".//itemid", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+  var countNode = xml.evaluate(".//count", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
   var link = linkNode.singleNodeValue.textContent;
   var linkValues = link.split(":");
   var itemId = linkValues[0];
@@ -42,10 +43,13 @@ for(var i = 0; i<nodes.snapshotLength; i++){
   }
   
   var hrefLink = "www.wowhead.com/item=" + itemId +"\" ";
-  //if(numBonuses > 0){
-  //  hrefLink += "rel=\"bonus=" + bonuses + "\"";
-  //}
+  
   linkNode.singleNodeValue.textContent = hrefLink;
+  if(numBonuses > 0){
+    countNode.singleNodeValue.textContent = bonuses;
+  }else{
+    countNode.singleNodeValue.textContent = "";
+  }
 }
 
 
