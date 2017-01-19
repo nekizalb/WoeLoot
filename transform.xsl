@@ -14,7 +14,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
       <xsl:value-of select="/raidlog/head/export/name" /></a>
     </h4>
     </div>
-    <div class="panel-collapse collapse">
+    <div class="panel-collapse">
 	    <xsl:attribute name="id" >
           <xsl:value-of select="/raidlog/head/export/name" />
         </xsl:attribute>
