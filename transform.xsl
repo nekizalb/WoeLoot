@@ -52,7 +52,6 @@ xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	  </div>
     </div>
   </div>
-</div>
 </xsl:template>
 
 </xsl:stylesheet>
