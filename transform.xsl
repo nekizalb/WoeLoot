@@ -9,7 +9,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
     <h4 class="panel-title">
       <a data-toggle="collapse">
       <xsl:attribute name="href" >
-        <xsl:value-of select="/raidlog/head/export/name" />
+        #<xsl:value-of select="/raidlog/head/export/name" />
       </xsl:attribute>
       <xsl:value-of select="/raidlog/head/export/name" /></a>
     </h4>
