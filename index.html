@@ -29,11 +29,11 @@ var dates = ["2017-01-15"];
 
 dates.forEach(function(date) {
 
-  xml = loadXMLDoc("historyData/" + date + ".xml");
+  xml = loadXMLDoc("historyData/" + lootDate + ".xml");
   xsl = loadXMLDoc("transform.xsl");
   
   var nameNode = xml.evaluate("/raidlog/head/export/name", xml, null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
-  nameNode.singleNodeValue.textContent = date;
+  nameNode.singleNodeValue.textContent = lootDate;
   
   var nodes = xml.evaluate("/raidlog/raiddata/items/item", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
   for(var i = 0; i<nodes.snapshotLength; i++){
@@ -67,7 +67,7 @@ dates.forEach(function(date) {
   if (window.ActiveXObject || xhttp.responseType == "msxml-document")
     {
     ex = xml.transformNode(xsl);
-    document.getElementById("2017-01-15").getElementsByClassName("panel-body").innerHTML = ex;
+    document.getElementsByClassName("panel-group")[0].innerHTML = ex;
     }
   // code for Chrome, Firefox, Opera, etc.
   else if (document.implementation && document.implementation.createDocument)
