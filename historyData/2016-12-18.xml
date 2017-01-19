@@ -1,0 +1,192 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1482087600</enter>
+			<name>The Emerald Nightmare-Mythic</name>
+			<leave>1482113600</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1482115899</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1482119169</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1482115842</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1482119129</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1482115904</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1482119176</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1482119145</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1482115853</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>139253::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Fel-Bloated Venom Sac</name>
+			<member>Malvagio</member>
+			<time>1482115899</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139237::::::::110:102::6:3:1806:1517:3337:::</itemid>
+			<name>Dreadful Cyclopean Signet</name>
+			<member>Pachunter</member>
+			<time>1482119169</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139221::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Patient Ambusher's Hauberk</name>
+			<member>Nakuta</member>
+			<time>1482115842</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139202::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Dreamsculptor's Gloves</name>
+			<member>Pigpen</member>
+			<time>1482119129</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139254::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Shrieking Bloodstone</name>
+			<member>Rool</member>
+			<time>1482115904</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139233::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Pauldrons of Shifting Runes</name>
+			<member>Zamle</member>
+			<time>1482119176</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Xmog</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139258::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Radiating Metallic Shard</name>
+			<member>Tephea</member>
+			<time>1482119145</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139255::::::::110:102::6:2:1806:1502:::</itemid>
+			<name>Scything Quill</name>
+			<member>Melacath</member>
+			<time>1482115853</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Rool</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Pigpen</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Pachunter</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Tephea</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+		<member>
+			<name>Malvagio</name>
+			<times>
+				<time type='join'>1482087600</time>
+				<time type='leave'>1482113600</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
