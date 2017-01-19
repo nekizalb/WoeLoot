@@ -25,70 +25,65 @@ return xhttp.responseXML;
 
 function displayResult()
 {
-xml = loadXMLDoc("historyData/20170115.xml");
-xsl = loadXMLDoc("transform.xsl");
+var dates = ["2017-01-15"];
 
-var nodes = xml.evaluate("/raidlog/raiddata/items/item", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
-for(var i = 0; i<nodes.snapshotLength; i++){
-  var timeNode = xml.evaluate(".//time", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
-  var date  = new Date(timeNode.singleNodeValue.textContent * 1000);
-  timeNode.singleNodeValue.textContent = date.toLocaleString();
+dates.forEach(function(date) {
+
+  xml = loadXMLDoc("historyData/" + date + ".xml");
+  xsl = loadXMLDoc("transform.xsl");
   
-  var linkNode = xml.evaluate(".//itemid", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
-  var countNode = xml.evaluate(".//count", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
-  var link = linkNode.singleNodeValue.textContent;
-  var linkValues = link.split(":");
-  var itemId = linkValues[0];
-  var numBonuses = linkValues[12];
-  var bonuses = "";
-  for(var j = 0; j < numBonuses; j++){
-    if(j > 0) bonuses += ":";
-	bonuses += linkValues[13+j];
-  }
+  var nameNode = xml.evaluate("/raidlog/head/export/name", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+  nameNode.singleNodeValue.textContent = date;
   
-  var hrefLink = "//www.wowhead.com/item=" + itemId +"\" ";
-  
-  linkNode.singleNodeValue.textContent = hrefLink;
-  if(numBonuses > 0){
-    countNode.singleNodeValue.textContent = "bonus=" + bonuses;
-  }else{
-    countNode.singleNodeValue.textContent = "";
+  var nodes = xml.evaluate("/raidlog/raiddata/items/item", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
+  for(var i = 0; i<nodes.snapshotLength; i++){
+    var timeNode = xml.evaluate(".//time", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+    var date  = new Date(timeNode.singleNodeValue.textContent * 1000);
+    timeNode.singleNodeValue.textContent = date.toLocaleString();
+    
+    var linkNode = xml.evaluate(".//itemid", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+    var countNode = xml.evaluate(".//count", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+    var link = linkNode.singleNodeValue.textContent;
+    var linkValues = link.split(":");
+    var itemId = linkValues[0];
+    var numBonuses = linkValues[12];
+    var bonuses = "";
+    for(var j = 0; j < numBonuses; j++){
+      if(j > 0) bonuses += ":";
+  	bonuses += linkValues[13+j];
+    }
+    
+    var hrefLink = "//www.wowhead.com/item=" + itemId +"\" ";
+    
+    linkNode.singleNodeValue.textContent = hrefLink;
+    if(numBonuses > 0){
+      countNode.singleNodeValue.textContent = "bonus=" + bonuses;
+    }else{
+      countNode.singleNodeValue.textContent = "";
+    }
   }
-}
-  
-// code for IE
-if (window.ActiveXObject || xhttp.responseType == "msxml-document")
-  {
-  ex = xml.transformNode(xsl);
-  document.getElementById("2017-01-15").getElementsByClassName("panel-body").innerHTML = ex;
+    
+  // code for IE
+  if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+    {
+    ex = xml.transformNode(xsl);
+    document.getElementById("2017-01-15").getElementsByClassName("panel-body").innerHTML = ex;
+    }
+  // code for Chrome, Firefox, Opera, etc.
+  else if (document.implementation && document.implementation.createDocument)
+    {
+    xsltProcessor = new XSLTProcessor();
+    xsltProcessor.importStylesheet(xsl);
+    resultDocument = xsltProcessor.transformToFragment(xml, document);
+    document.getElementsByClassName("panel-group")[0].appendChild(resultDocument);
+    }
   }
-// code for Chrome, Firefox, Opera, etc.
-else if (document.implementation && document.implementation.createDocument)
-  {
-  xsltProcessor = new XSLTProcessor();
-  xsltProcessor.importStylesheet(xsl);
-  resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("2017-01-15").getElementsByClassName("panel-body")[0].appendChild(resultDocument);
-  }
-}
+});
+
 </script>
 </head>
 <body onload="displayResult()">
-
-<div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" href="#2017-01-15">2017-01-15</a>
-        </h4>
-      </div>
-      <div id="2017-01-15" class="panel-collapse collapse">
-        <div class="panel-body" />
-      </div>
-    </div>
-    </div>
-  </div>
-  
-<div id="example" />
+<h2>Woe Loot</h2>
+<div class="panel-group" />
 </body>
 </html>
