@@ -1,0 +1,510 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1483556400</enter>
+			<name>The Emerald Nightmare-Mythic</name>
+			<leave>1483582400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1483590230</time>
+		</bosskill>
+		<bosskill>
+			<name>Ysondre</name>
+			<time>1483582420</time>
+		</bosskill>
+		<bosskill>
+			<name>Ursoc</name>
+			<time>1483581510</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1483589168</time>
+		</bosskill>
+		<bosskill>
+			<name>Xavius</name>
+			<time>1483592147</time>
+		</bosskill>
+		<bosskill>
+			<name>Ursoc</name>
+			<time>1483581519</time>
+		</bosskill>
+		<bosskill>
+			<name>Nythendra</name>
+			<time>1483580386</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1483582999</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1483590240</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1483582985</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1483582988</time>
+		</bosskill>
+		<bosskill>
+			<name>Nythendra</name>
+			<time>1483580358</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1483589190</time>
+		</bosskill>
+		<bosskill>
+			<name>Ysondre</name>
+			<time>1483582430</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1483589247</time>
+		</bosskill>
+		<bosskill>
+			<name>Elerethe Renferal</name>
+			<time>1483582991</time>
+		</bosskill>
+		<bosskill>
+			<name>Nythendra</name>
+			<time>1483580390</time>
+		</bosskill>
+		<bosskill>
+			<name>Nythendra</name>
+			<time>1483580394</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1483590206</time>
+		</bosskill>
+		<bosskill>
+			<name>Il'gynoth</name>
+			<time>1483589154</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1483590278</time>
+		</bosskill>
+		<bosskill>
+			<name>Ursoc</name>
+			<time>1483581542</time>
+		</bosskill>
+		<bosskill>
+			<name>Ursoc</name>
+			<time>1483581524</time>
+		</bosskill>
+		<bosskill>
+			<name>Ysondre</name>
+			<time>1483582532</time>
+		</bosskill>
+		<bosskill>
+			<name>Ysondre</name>
+			<time>1483582458</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>139334::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Nature's Call</name>
+			<member>Amrue</member>
+			<time>1483590230</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>138216::::::::110:262::6:3:1806:1507:3336:::</itemid>
+			<name>Horror Inscribed Chestguard</name>
+			<member>Hav</member>
+			<time>1483582420</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Ysondre</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139196::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Ragged Fur Wristwraps</name>
+			<member>Malvagio</member>
+			<time>1483581510</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Ursoc</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139326::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Wriggling Sinew</name>
+			<member>Malvagio</member>
+			<time>1483589168</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139193::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Maddening Robe of Secrets</name>
+			<member>Malvagio</member>
+			<time>1483592147</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Xmog</note>
+			<boss>Xavius</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139226::::::::110:262::6:3:1806:1517:3337:::</itemid>
+			<name>Primal Gauntlets of Rage</name>
+			<member>Phylloxeras</member>
+			<time>1483581519</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Ursoc</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139249::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Shaladrassil's Blossom</name>
+			<member>Byuka</member>
+			<time>1483580386</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Nythendra</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139322::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Cocoon of Enforced Solitude</name>
+			<member>Byuka</member>
+			<time>1483582999</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139264::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Uplifting Emerald</name>
+			<member>Nakuta</member>
+			<time>1483590240</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139204::::::::110:262::6:3:1806:1507:3336:::</itemid>
+			<name>Mask of Multitudinous Eyes</name>
+			<member>Rool</member>
+			<time>1483582985</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139229::::::::110:262::6:3:1806:41:1502:::</itemid>
+			<name>Venom-Fanged Barbute</name>
+			<member>Zamle</member>
+			<time>1483582988</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139251::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Despoiled Dragonscale</name>
+			<member>Terraform</member>
+			<time>1483580358</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Nythendra</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139206::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Otherworldy Leather Mantle</name>
+			<member>Terraform</member>
+			<time>1483589190</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>138218::::::::110:262::6:3:1806:1517:3337:::</itemid>
+			<name>Dragonbone Wristclamps</name>
+			<member>Scutums</member>
+			<time>1483582430</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Ysondre</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139324::::::::110:262::6:3:1806:1512:3336:::</itemid>
+			<name>Goblet of Nightmarish Ichor</name>
+			<member>Scutums</member>
+			<time>1483589247</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139219::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Black Venom Sabatons</name>
+			<member>Hammerhawk</member>
+			<time>1483582991</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Elerethe Renferal</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139250::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Unwaking Slumber</name>
+			<member>Valomend</member>
+			<time>1483580390</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Nythendra</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139214::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Greyed Dragonscale Coif</name>
+			<member>Valomend</member>
+			<time>1483580394</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Nythendra</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139263::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Blessing of Cenarius</name>
+			<member>Valomend</member>
+			<time>1483590206</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Mainspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139326::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Wriggling Sinew</name>
+			<member>Realtur</member>
+			<time>1483589154</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Il'gynoth</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139194::::::::110:262::6:4:1806:42:1507:3336:::</itemid>
+			<name>Cozy Dryad Hoof-Socks</name>
+			<member>Buddiechrist</member>
+			<time>1483590278</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139201::::::::110:262::6:3:1806:1517:3337:::</itemid>
+			<name>Splotched Bloodfur Leggings</name>
+			<member>Brewharymore</member>
+			<time>1483581542</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Ursoc</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>139328::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Ursoc's Rending Paw</name>
+			<member>Carleeto</member>
+			<time>1483581524</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Ursoc</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>138225::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Phantasmal Echo</name>
+			<member>Carleeto</member>
+			<time>1483582532</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Offspec</note>
+			<boss>Ysondre</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+		<item>
+			<itemid>138226::::::::110:262::6:2:1806:1502:::</itemid>
+			<name>Nightmare Engulfed Jewel</name>
+			<member>Mersault</member>
+			<time>1483582458</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Offspec</note>
+			<boss>Ysondre</boss>
+			<zone>The Emerald Nightmare-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Rool</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hammerhawk</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Realtur</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Malvagio</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Mersault</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Terraform</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Brewharymore</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Carleeto</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hav</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Valomend</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Byuka</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+		<member>
+			<name>Scutums</name>
+			<times>
+				<time type='join'>1483556400</time>
+				<time type='leave'>1483582400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
