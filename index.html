@@ -50,7 +50,7 @@ dates.forEach(function(lootDate) {
   for(var i = 0; i<nodes.snapshotLength; i++){
     var timeNode = xml.evaluate(".//time", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
     var date  = new Date(timeNode.singleNodeValue.textContent * 1000);
-    timeNode.singleNodeValue.textContent = date.toLocaleString();
+    timeNode.singleNodeValue.textContent = date.toTimeString();
     
     var linkNode = xml.evaluate(".//itemid", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
     var countNode = xml.evaluate(".//count", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
