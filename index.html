@@ -55,15 +55,6 @@ for(var i = 0; i<nodes.snapshotLength; i++){
     countNode.singleNodeValue.textContent = "";
   }
 }
-
-  $("#jqxExpander").jqxExpander({
-      width: 200,
-      height: 100,
-      theme: 'energyblue'
-  });
-  $('#jqxExpander').on('collapsing', function () {
-      alert("Collapsing the expander");
-  });
   
 // code for IE
 if (window.ActiveXObject || xhttp.responseType == "msxml-document")
@@ -92,7 +83,7 @@ else if (document.implementation && document.implementation.createDocument)
         </h4>
       </div>
       <div id="2017-01-15" class="panel-collapse collapse">
-        <div class="panel-body">Panel Body</div>
+        <div class="panel-body" />
       </div>
     </div>
     </div>
