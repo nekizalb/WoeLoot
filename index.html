@@ -32,7 +32,7 @@ dates.forEach(function(date) {
   xml = loadXMLDoc("historyData/" + date + ".xml");
   xsl = loadXMLDoc("transform.xsl");
   
-  var nameNode = xml.evaluate("/raidlog/head/export/name", nodes.snapshotItem(i), null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
+  var nameNode = xml.evaluate("/raidlog/head/export/name", xml, null,XPathResult.FIRST_ORDERED_NODE_TYPE,null );
   nameNode.singleNodeValue.textContent = date;
   
   var nodes = xml.evaluate("/raidlog/raiddata/items/item", xml, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,null )
