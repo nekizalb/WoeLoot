@@ -68,7 +68,7 @@ else if (document.implementation && document.implementation.createDocument)
   xsltProcessor = new XSLTProcessor();
   xsltProcessor.importStylesheet(xsl);
   resultDocument = xsltProcessor.transformToFragment(xml, document);
-  document.getElementById("2017-01-15").getElementsByClassName("panel-body").appendChild(resultDocument);
+  document.getElementById("2017-01-15").getElementsByClassName("panel-body")[0].appendChild(resultDocument);
   }
 }
 </script>
