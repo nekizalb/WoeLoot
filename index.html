@@ -27,7 +27,7 @@ function displayResult()
 {
 var dates = ["2017-01-15"];
 
-dates.forEach(function(date) {
+dates.forEach(function(lootDate) {
 
   xml = loadXMLDoc("historyData/" + lootDate + ".xml");
   xsl = loadXMLDoc("transform.xsl");
