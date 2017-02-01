@@ -1,0 +1,385 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.3</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1485716400</enter>
+			<name>The Nighthold-Heroic</name>
+			<leave>1485742400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1485747728</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1485747138</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1485747757</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1485750163</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1485747125</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1485750732</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1485747731</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1485747049</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1485747122</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1485750274</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1485747784</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1485750229</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1485750785</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1485750941</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1485750737</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1485750774</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1485750212</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1485747761</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1485750207</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140834::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Soul of Flame</name>
+			<member>Mersault</member>
+			<time>1485747728</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140803::::::::110:262::5:3:3516:1502:3337:::</itemid>
+			<name>Etraeus' Celestial Map</name>
+			<member>Byuka</member>
+			<time>1485747138</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140832::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Heart of Frost</name>
+			<member>Phylloxeras</member>
+			<time>1485747757</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143570::::::::110:70::5:1:570:::</itemid>
+			<name>Shoulders of the Foreseen Vanquisher</name>
+			<member>Phylloxeras</member>
+			<time>1485750163</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>TierOther</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143567::::::::110:262::5:1:570:::</itemid>
+			<name>Gauntlets of the Foreseen Vanquisher</name>
+			<member>Phylloxeras</member>
+			<time>1485747125</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Tier4</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140881::::::::110:262::5:3:3516:1497:3336:::</itemid>
+			<name>Eventide Casque</name>
+			<member>Phylloxeras</member>
+			<time>1485750732</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140834::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Soul of Flame</name>
+			<member>Unworthy</member>
+			<time>1485747731</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140885::::::::110:262::5:3:3516:1492:3336:::</itemid>
+			<name>Treads of Galactic Odyssey</name>
+			<member>Unworthy</member>
+			<time>1485747049</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Minor Upgrade</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143567::::::::110:262::5:1:570:::</itemid>
+			<name>Gauntlets of the Foreseen Vanquisher</name>
+			<member>Unworthy</member>
+			<time>1485747122</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Tier4</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140859::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Girdle of Nefarious Strategy</name>
+			<member>îllo</member>
+			<time>1485750274</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140878::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Duskwatch Plate Bracers</name>
+			<member>Pigpen</member>
+			<time>1485747784</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143566::::::::110:70::5:1:570:::</itemid>
+			<name>Shoulders of the Foreseen Conqueror</name>
+			<member>Ruliet</member>
+			<time>1485750229</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Tier2</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140874::::::::110:262::5:3:3516:1487:1813:::</itemid>
+			<name>Thistle-Proof Thorngrabbers</name>
+			<member>Amrue</member>
+			<time>1485750785</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140801::::::::110:262::5:3:3516:1487:1813:::</itemid>
+			<name>Fury of the Burning Sky</name>
+			<member>Amrue</member>
+			<time>1485750941</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140896::::::::110:262::5:3:3516:1487:1813:::</itemid>
+			<name>Ring of Braided Stems</name>
+			<member>Scutums</member>
+			<time>1485750737</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140883::::::::110:262::5:3:3516:1487:1813:::</itemid>
+			<name>Shoulderguard of the Eclipse</name>
+			<member>Scutums</member>
+			<time>1485750774</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140824::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Writ of Subjugation</name>
+			<member>Trahmen</member>
+			<time>1485750212</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140832::::::::110:70::5:3:3516:1487:1813:::</itemid>
+			<name>Heart of Frost</name>
+			<member>Rool</member>
+			<time>1485747761</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140824::::::::110:70::5:3:3516:1492:3336:::</itemid>
+			<name>Writ of Subjugation</name>
+			<member>Melacath</member>
+			<time>1485750207</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Rool</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Mersault</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Ruliet</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Pigpen</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>îllo</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Trahmen</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Scutums</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+		<member>
+			<name>Byuka</name>
+			<times>
+				<time type='join'>1485716400</time>
+				<time type='leave'>1485742400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
