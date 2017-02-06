@@ -1,0 +1,795 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.3</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1486321200</enter>
+			<name>The Nighthold-Normal</name>
+			<leave>1486347200</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486349288</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1486352888</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1486346781</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1486346864</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1486347818</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486354699</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486350084</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1486345313</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1486353555</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486347273</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1486347826</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486347307</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486349283</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486349366</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1486344915</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1486347837</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486354761</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1486344907</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1486345301</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1486345306</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1486353571</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486354641</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1486344909</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1486352932</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486350075</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486347337</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1486348523</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1486345317</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1486353566</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1486346784</time>
+		</bosskill>
+		<bosskill>
+			<name>Star Augur Etraeus</name>
+			<time>1486347823</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1486348528</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1486352882</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1486353560</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1486348503</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1486352878</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486354706</time>
+		</bosskill>
+		<bosskill>
+			<name>Arcanist Tel'arn</name>
+			<time>1486348496</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1486349406</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486350081</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1486344890</time>
+		</bosskill>
+		<bosskill>
+			<name>Tichondrius</name>
+			<time>1486346858</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486347269</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1486350078</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140910::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Cloak of Temporal Recalibration</name>
+			<member>Hemileia</member>
+			<time>1486349288</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140865::::::::110:70::3:3:3443:1467:1813:::</itemid>
+			<name>Tunic of Unwavering Devotion</name>
+			<member>Byuka</member>
+			<time>1486352888</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143570::::::::110:262::3::::</itemid>
+			<name>Shoulders of the Foreseen Vanquisher</name>
+			<member>Byuka</member>
+			<time>1486346781</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Tier4</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143570::::::::110:262::3::::</itemid>
+			<name>Shoulders of the Foreseen Vanquisher</name>
+			<member>Byuka</member>
+			<time>1486346864</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Tier4</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143567::::::::110:262::3::::</itemid>
+			<name>Gauntlets of the Foreseen Vanquisher</name>
+			<member>Byuka</member>
+			<time>1486347818</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143568::::::::110:262::5:1:570:::</itemid>
+			<name>Helm of the Foreseen Vanquisher</name>
+			<member>Byuka</member>
+			<time>1486354699</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143569::::::::110:262::3::::</itemid>
+			<name>Leggings of the Foreseen Vanquisher</name>
+			<member>Phylloxeras</member>
+			<time>1486350084</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140903::::::::110:262::3:3:3443:1467:1813:::</itemid>
+			<name>Hood of Fading Opportunity</name>
+			<member>Nakuta</member>
+			<time>1486345313</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140832::::::::110:70::3:3:3514:1472:1813:::</itemid>
+			<name>Heart of Frost</name>
+			<member>Nakuta</member>
+			<time>1486353555</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Offspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140870::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Architect's Coif of Despair</name>
+			<member>Nakuta</member>
+			<time>1486347273</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140833::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Sundered Comet</name>
+			<member>Nakuta</member>
+			<time>1486347826</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143571::::::::110:262::3::::</itemid>
+			<name>Chest of the Foreseen Vanquisher</name>
+			<member>Unworthy</member>
+			<time>1486347307</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140810::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Farsight Spiritjewel</name>
+			<member>Unworthy</member>
+			<time>1486349283</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143568::::::::110:262::3::::</itemid>
+			<name>Helm of the Foreseen Vanquisher</name>
+			<member>Unworthy</member>
+			<time>1486349366</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Pass</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140901::::::::110:262::3:3:3443:1467:1813:::</itemid>
+			<name>Vintage Suramar Nobility Hat</name>
+			<member>îllo</member>
+			<time>1486344915</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Xmog</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143573::::::::110:262::3::::</itemid>
+			<name>Gauntlets of the Foreseen Protector</name>
+			<member>îllo</member>
+			<time>1486347837</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Tier2</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143575::::::::110:262::5:1:570:::</itemid>
+			<name>Helm of the Foreseen Protector</name>
+			<member>îllo</member>
+			<time>1486354761</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140827::::::::110:262::3:3:3443:1467:1813:::</itemid>
+			<name>Manatoxin Gland</name>
+			<member>Terraform</member>
+			<time>1486344907</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Offspec</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140860::::::::110:262::3:3:3443:1467:1813:::</itemid>
+			<name>Stutterstep Treads</name>
+			<member>Terraform</member>
+			<time>1486345301</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140860::::::::110:262::3:3:3443:1467:1813:::</itemid>
+			<name>Stutterstep Treads</name>
+			<member>Terraform</member>
+			<time>1486345306</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140895::::::::110:70::3:3:3514:1502:3337:::</itemid>
+			<name>Spellblade's Gemmed Signet</name>
+			<member>Terraform</member>
+			<time>1486353571</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140889::::::::110:262::5:4:3516:40:1492:3336:::</itemid>
+			<name>Bracers of Impossible Choices</name>
+			<member>Terraform</member>
+			<time>1486354641</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140888::::::::110:262::3:3:3443:1477:3336:::</itemid>
+			<name>Scorpid Handler's Gloves</name>
+			<member>Buddiechrist</member>
+			<time>1486344909</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143579::::::::110:70::3::::</itemid>
+			<name>Cloak of the Foreseen Protector</name>
+			<member>Zamle</member>
+			<time>1486352932</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Pass</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140820::::::::110:262::3:3:3515:1477:1813:::</itemid>
+			<name>Phial of Fel Blood</name>
+			<member>Zamle</member>
+			<time>1486350075</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143562::::::::110:262::3::::</itemid>
+			<name>Chest of the Foreseen Conqueror</name>
+			<member>Leetoz</member>
+			<time>1486347337</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Tier2</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140886::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Woven Lasher Tendril Bracers</name>
+			<member>Leetoz</member>
+			<time>1486348523</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Mainspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140894::::::::110:262::3:3:3443:1472:3336:::</itemid>
+			<name>Zealous Timestone Pendant</name>
+			<member>Malvagio</member>
+			<time>1486345317</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140878::::::::110:70::3:3:3514:1472:1813:::</itemid>
+			<name>Duskwatch Plate Bracers</name>
+			<member>Malvagio</member>
+			<time>1486353566</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140798::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Icon of Rot</name>
+			<member>Malvagio</member>
+			<time>1486346784</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140885::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Treads of Galactic Odyssey</name>
+			<member>Malvagio</member>
+			<time>1486347823</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Star Augur Etraeus</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140836::::::::110:262::3:3:3514:1487:3337:::</itemid>
+			<name>Sunflare Coal</name>
+			<member>Malvagio</member>
+			<time>1486348528</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140869::::::::110:70::3:3:3443:1467:1813:::</itemid>
+			<name>Sterilizer's Insulated Gauntlets</name>
+			<member>Amrue</member>
+			<time>1486352882</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140877::::::::110:70::3:4:3514:41:1477:3336:::</itemid>
+			<name>Captain's Parade Breastplate</name>
+			<member>Cuetip</member>
+			<time>1486353560</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140881::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Eventide Casque</name>
+			<member>Cuetip</member>
+			<time>1486348503</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140794::::::::110:70::3:3:3443:1467:1813:::</itemid>
+			<name>Arcanogolem Digit</name>
+			<member>Pachunter</member>
+			<time>1486352878</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143575::::::::110:262::5:1:570:::</itemid>
+			<name>Helm of the Foreseen Protector</name>
+			<member>Scutums</member>
+			<time>1486354706</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140908::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Trousers of Cultivation</name>
+			<member>Melacath</member>
+			<time>1486348496</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Arcanist Tel'arn</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143565::::::::110:262::3::::</itemid>
+			<name>Helm of the Foreseen Conqueror</name>
+			<member>Melacath</member>
+			<time>1486349406</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>TierOther</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140807::::::::110:262::3:4:3515:1808:1477:1813:::</itemid>
+			<name>Infernal Contract</name>
+			<member>Melacath</member>
+			<time>1486350081</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140875::::::::110:262::3:3:3443:1472:3336:::</itemid>
+			<name>Arcanochitin Hauberk</name>
+			<member>Realtur</member>
+			<time>1486344890</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143576::::::::110:262::3::::</itemid>
+			<name>Shoulders of the Foreseen Protector</name>
+			<member>Realtur</member>
+			<time>1486346858</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>TierOther</note>
+			<boss>Tichondrius</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>140870::::::::110:262::3:3:3514:1472:1813:::</itemid>
+			<name>Architect's Coif of Despair</name>
+			<member>Realtur</member>
+			<time>1486347269</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+		<item>
+			<itemid>143574::::::::110:262::3::::</itemid>
+			<name>Leggings of the Foreseen Protector</name>
+			<member>Realtur</member>
+			<time>1486350078</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Tier4</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Normal</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Leetoz</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>îllo</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Realtur</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Byuka</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Pachunter</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Terraform</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Hemileia</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Malvagio</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+		<member>
+			<name>Scutums</name>
+			<times>
+				<time type='join'>1486321200</time>
+				<time type='leave'>1486347200</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
