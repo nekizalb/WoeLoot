@@ -1,0 +1,163 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.5</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Hav</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1488128400</enter>
+			<name>The Nighthold-Mythic</name>
+			<leave>1488154400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1488167984</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1488167993</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1488168012</time>
+		</bosskill>
+		<bosskill>
+			<name>Victoire</name>
+			<time>1488164046</time>
+		</bosskill>
+		<bosskill>
+			<name>Victoire</name>
+			<time>1488163903</time>
+		</bosskill>
+		<bosskill>
+			<name>Victoire</name>
+			<time>1488164016</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1488168005</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140790::::::::110:70::6:3:3445:1497:1813:::</itemid>
+			<name>Claw of the Crystalline Scorpid</name>
+			<member>Cuetip</member>
+			<time>1488167984</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140884::::::::110:70::6:3:3445:1497:1813:::</itemid>
+			<name>Leystone-Toe Kickers</name>
+			<member>Cuetip</member>
+			<time>1488167993</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140876::::::::110:70::6:3:3445:1497:1813:::</itemid>
+			<name>Stinger Resistant Bracers</name>
+			<member>Pachunter</member>
+			<time>1488168012</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140913::::::::110:70::5:4:3517:1808:1492:1813:::</itemid>
+			<name>Breastplate of the Remembered King</name>
+			<member>Scutums</member>
+			<time>1488164046</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Victoire</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140820::::::::110:70::5:3:3517:1492:1813:::</itemid>
+			<name>Phial of Fel Blood</name>
+			<member>Ruliet</member>
+			<time>1488163903</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Victoire</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143564::::::::110:70::5:1:570:::</itemid>
+			<name>Leggings of the Foreseen Conqueror</name>
+			<member>Buddiechrist</member>
+			<time>1488164016</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Mainspec</note>
+			<boss>Victoire</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140888::::::::110:70::6:3:3445:1497:1813:::</itemid>
+			<name>Scorpid Handler's Gloves</name>
+			<member>Leetoz</member>
+			<time>1488168005</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+		<member>
+			<name>Pachunter</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+		<member>
+			<name>Scutums</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+		<member>
+			<name>Ruliet</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+		<member>
+			<name>Leetoz</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1488128400</time>
+				<time type='leave'>1488154400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
