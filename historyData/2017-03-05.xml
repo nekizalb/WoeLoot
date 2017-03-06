@@ -1,0 +1,174 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.5</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1488740400</enter>
+			<name>The Nighthold-Mythic</name>
+			<leave>1488766400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1488766661</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1488775460</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1488775678</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1488775464</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1488775682</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1488764192</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1488766669</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1488766657</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140894::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Zealous Timestone Pendant</name>
+			<member>Nakuta</member>
+			<time>1488766661</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140812::::::::110:262::6:3:3445:1507:3336:::</itemid>
+			<name>Soggy Manascrubber Brush</name>
+			<member>Unworthy</member>
+			<time>1488775460</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143577::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Conqueror</name>
+			<member>Malvagio</member>
+			<time>1488775678</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140818::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Foreign Contaminant</name>
+			<member>Amrue</member>
+			<time>1488775464</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143577::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Conqueror</name>
+			<member>Trahmen</member>
+			<time>1488775682</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140872::::::::110:262::6:4:3445:1808:1507:3336:::</itemid>
+			<name>Pauldrons of Warped Memory</name>
+			<member>Valomend</member>
+			<time>1488766669</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140860::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Stutterstep Treads</name>
+			<member>Hugmoo</member>
+			<time>1488766657</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hugmoo</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Realtur</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Trahmen</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+		<member>
+			<name>Malvagio</name>
+			<times>
+				<time type='join'>1488740400</time>
+				<time type='leave'>1488766400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
