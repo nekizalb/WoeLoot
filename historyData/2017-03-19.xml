@@ -1,0 +1,252 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.5</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1489946400</enter>
+			<name>Trial of Valor-Mythic</name>
+			<leave>1489972400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1489970389</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1489971519</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1489971530</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1489973715</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1489971534</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1489973720</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1489970367</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1489973590</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1489971526</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1489970398</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1489973579</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1489970393</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>142410::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Robes of Celestial Adornment</name>
+			<member>Mersault</member>
+			<time>1489970389</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142413::::::::110:262::6:4:3469:40:1517:3336:::</itemid>
+			<name>Leggings of the Lower Planes</name>
+			<member>Mersault</member>
+			<time>1489971519</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142515::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Chilled Incisor</name>
+			<member>Byuka</member>
+			<time>1489971530</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143578::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Vanquisher</name>
+			<member>Phylloxeras</member>
+			<time>1489973715</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142512::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Accursed Cuspid</name>
+			<member>Buddiechrist</member>
+			<time>1489971534</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143577::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Conqueror</name>
+			<member>Buddiechrist</member>
+			<time>1489973720</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142431::::::::110:262::6:3:3469:43:1507:::</itemid>
+			<name>Gleaming Val'kyr Cuirass</name>
+			<member>Zamle</member>
+			<time>1489970367</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140880::::::::110:262::6:3:3445:1512:3337:::</itemid>
+			<name>Gilded Nightborne Waistplate</name>
+			<member>Zamle</member>
+			<time>1489973590</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142434::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Kvaldir Exult's Grips</name>
+			<member>Amrue</member>
+			<time>1489971526</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142514::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Ravens' Sight</name>
+			<member>Cuetip</member>
+			<time>1489970398</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140904::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Immaculately Polished Boots</name>
+			<member>Cuetip</member>
+			<time>1489973579</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142430::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Gloves of Issued Challenge</name>
+			<member>Melacath</member>
+			<time>1489970393</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Mersault</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+		<member>
+			<name>Byuka</name>
+			<times>
+				<time type='join'>1489946400</time>
+				<time type='leave'>1489972400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
