@@ -1,0 +1,266 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.2.5</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1490551200</enter>
+			<name>Trial of Valor-Mythic</name>
+			<leave>1490577200</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1490576359</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490575371</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490575411</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490578866</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1490576328</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1490576313</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490578797</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1490576317</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490575414</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490578765</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490578977</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490575376</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>142435::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Reinforced Hound-Handler's Gauntlets</name>
+			<member>Phylloxeras</member>
+			<time>1490576359</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142422::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Radiant Soul Sabatons</name>
+			<member>Nakuta</member>
+			<time>1490575371</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142511::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Unforged Titansteel</name>
+			<member>Nakuta</member>
+			<time>1490575411</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143578::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Vanquisher</name>
+			<member>Unworthy</member>
+			<time>1490578866</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142432::::::::110:262::6:3:3469:41:1507:::</itemid>
+			<name>Helbeast Skin Tunic</name>
+			<member>Terraform</member>
+			<time>1490576328</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142432::::::::110:262::6:2:3469:1507:::</itemid>
+			<name>Helbeast Skin Tunic</name>
+			<member>Buddiechrist</member>
+			<time>1490576313</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143577::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Conqueror</name>
+			<member>Leetoz</member>
+			<time>1490578797</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142413::::::::110:262::6:3:3469:1512:3336:::</itemid>
+			<name>Leggings of the Lower Planes</name>
+			<member>Malvagio</member>
+			<time>1490576317</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142508::::::::110:262::6:3:3469:607:1507:::</itemid>
+			<name>Chains of the Valorous</name>
+			<member>Cuetip</member>
+			<time>1490575414</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140904::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Immaculately Polished Boots</name>
+			<member>Snuchy</member>
+			<time>1490578765</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140838::::::::110:262::6:3:3445:1497:1813:::</itemid>
+			<name>Construct Personality Sphere</name>
+			<member>Snuchy</member>
+			<time>1490578977</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142421::::::::110:262::6:3:3469:1517:3336:::</itemid>
+			<name>Leggings of the Undaunted</name>
+			<member>Realtur</member>
+			<time>1490575376</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Terraform</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Leetoz</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Realtur</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Snuchy</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+		<member>
+			<name>Malvagio</name>
+			<times>
+				<time type='join'>1490551200</time>
+				<time type='leave'>1490577200</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
