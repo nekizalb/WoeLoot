@@ -1,0 +1,444 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.3.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1490810400</enter>
+			<name>The Nighthold-Mythic</name>
+			<leave>1490836400</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1490836826</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1490837851</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1490835180</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1490835070</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490835940</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1490836833</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1490837925</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1490837931</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1490835130</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1490837920</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490835992</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490835932</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490836013</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1490835065</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1490836836</time>
+		</bosskill>
+		<bosskill>
+			<name>Skorpyron</name>
+			<time>1490836822</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490838811</time>
+		</bosskill>
+		<bosskill>
+			<name>Elisande</name>
+			<time>1490835184</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown/Chest</name>
+			<time>1490835985</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490838807</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490838802</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1490838814</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140849::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Antiquated Highborne Cinch</name>
+			<member>Mersault</member>
+			<time>1490836826</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Xmog</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140853::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Chaos-Scarred Mantle</name>
+			<member>Hemileia</member>
+			<time>1490837851</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Xmog</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143568::::::::110:262::5:1:570:::</itemid>
+			<name>Helm of the Foreseen Vanquisher</name>
+			<member>Byuka</member>
+			<time>1490835180</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Minor Upgrade</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143568::::::::110:262::5:1:570:::</itemid>
+			<name>Helm of the Foreseen Vanquisher</name>
+			<member>Phylloxeras</member>
+			<time>1490835070</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140817::::::::110:262::5:3:3517:1492:3528:::</itemid>
+			<name>Lionshead Lapel Clasp</name>
+			<member>Phylloxeras</member>
+			<time>1490835940</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140898::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Radiant String of Scorpid Eyes</name>
+			<member>Phylloxeras</member>
+			<time>1490836833</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140882::::::::110:262::6:4:3445:42:1497:3528:::</itemid>
+			<name>Chrono-Tempered Legplates</name>
+			<member>Phylloxeras</member>
+			<time>1490837925</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140821::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Precipice of Eternity</name>
+			<member>Phylloxeras</member>
+			<time>1490837931</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Offspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>144404::::::::110:262::6:4:3445:41:1502:3336:::</itemid>
+			<name>Mana-Cord of Deception</name>
+			<member>Unworthy</member>
+			<time>1490835130</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Mainspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140863::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Temporally Displaced Gloves</name>
+			<member>Buddiechrist</member>
+			<time>1490837920</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143574::::::::110:262::5:1:570:::</itemid>
+			<name>Leggings of the Foreseen Protector</name>
+			<member>Zamle</member>
+			<time>1490835992</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140817::::::::110:262::5:3:3517:1492:3528:::</itemid>
+			<name>Lionshead Lapel Clasp</name>
+			<member>Amrue</member>
+			<time>1490835932</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143574::::::::110:262::5:1:570:::</itemid>
+			<name>Leggings of the Foreseen Protector</name>
+			<member>Amrue</member>
+			<time>1490836013</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140837::::::::110:262::5:3:3516:1497:3336:::</itemid>
+			<name>Exothermic Core</name>
+			<member>Hav</member>
+			<time>1490835065</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>140790::::::::110:262::6:3:3445:1502:3336:::</itemid>
+			<name>Claw of the Crystalline Scorpid</name>
+			<member>Hav</member>
+			<time>1490836836</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140862::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Gnawed Nightfallen Britches</name>
+			<member>Trahmen</member>
+			<time>1490836822</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Xmog</note>
+			<boss>Skorpyron</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140880::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Gilded Nightborne Waistplate</name>
+			<member>Snuchy</member>
+			<time>1490838811</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140842::::::::110:262::5:3:3516:1492:3336:::</itemid>
+			<name>Collapsing Epoch</name>
+			<member>Realtur</member>
+			<time>1490835184</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Elisande</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143574::::::::110:262::5:1:570:::</itemid>
+			<name>Leggings of the Foreseen Protector</name>
+			<member>Realtur</member>
+			<time>1490835985</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Minor Upgrade</note>
+			<boss>Unknown/Chest</boss>
+			<zone>The Nighthold-Heroic</zone>
+		</item>
+		<item>
+			<itemid>143579::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Protector</name>
+			<member>Realtur</member>
+			<time>1490838807</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143578::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Vanquisher</name>
+			<member>Rool</member>
+			<time>1490838802</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140838::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Construct Personality Sphere</name>
+			<member>Hugmoo</member>
+			<time>1490838814</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Rool</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Mersault</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hugmoo</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hav</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Snuchy</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Hemileia</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Amrue</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Trahmen</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Realtur</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+		<member>
+			<name>Byuka</name>
+			<times>
+				<time type='join'>1490810400</time>
+				<time type='leave'>1490836400</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
