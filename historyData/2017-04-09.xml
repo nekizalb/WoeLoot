@@ -1,0 +1,259 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.3.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1491760800</enter>
+			<name>Trial of Valor-Mythic</name>
+			<leave>1491786800</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1491795412</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1491793813</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1491793556</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1491795404</time>
+		</bosskill>
+		<bosskill>
+			<name>Odyn</name>
+			<time>1491794864</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1491793547</time>
+		</bosskill>
+		<bosskill>
+			<name>Odyn</name>
+			<time>1491794869</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1491795421</time>
+		</bosskill>
+		<bosskill>
+			<name>Odyn</name>
+			<time>1491794856</time>
+		</bosskill>
+		<bosskill>
+			<name>Guarm</name>
+			<time>1491795378</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1491793809</time>
+		</bosskill>
+		<bosskill>
+			<name>Odyn</name>
+			<time>1491794861</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>142426::::::::110:262::6:4:3469:1808:1507:3528:::</itemid>
+			<name>Lead-Soled Seabed Striders</name>
+			<member>Phylloxeras</member>
+			<time>1491795412</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140905::::::::110:262::6:3:3518:1522:3337:::</itemid>
+			<name>Gloves of Synchronus Elements</name>
+			<member>Terraform</member>
+			<time>1491793813</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140852::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Master Warmage's Leggings</name>
+			<member>Ruliet</member>
+			<time>1491793556</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142512::::::::110:262::6:3:3469:1512:3336:::</itemid>
+			<name>Accursed Cuspid</name>
+			<member>Zamle</member>
+			<time>1491795404</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142519::::::::110:262::6:3:3469:1507:3528:::</itemid>
+			<name>Favor of the Prime Designate</name>
+			<member>Leetoz</member>
+			<time>1491794864</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Odyn</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140877::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Captain's Parade Breastplate</name>
+			<member>Cuetip</member>
+			<time>1491793547</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142508::::::::110:262::6:4:3469:604:1507:3528:::</itemid>
+			<name>Chains of the Valorous</name>
+			<member>Cuetip</member>
+			<time>1491794869</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Odyn</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142426::::::::110:262::6:3:3469:1507:3528:::</itemid>
+			<name>Lead-Soled Seabed Striders</name>
+			<member>Cuetip</member>
+			<time>1491795421</time>
+			<count>1</count>
+			<cost>1</cost>
+			<note>Xmog</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142421::::::::110:262::6:3:3469:1507:3528:::</itemid>
+			<name>Leggings of the Undaunted</name>
+			<member>Pachunter</member>
+			<time>1491794856</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Odyn</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142423::::::::110:262::6:3:3469:1512:3336:::</itemid>
+			<name>Bite-Resistant Wristclamps</name>
+			<member>Pachunter</member>
+			<time>1491795378</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss>Guarm</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140905::::::::110:262::6:3:3518:1507:3336:::</itemid>
+			<name>Gloves of Synchronus Elements</name>
+			<member>Melacath</member>
+			<time>1491793809</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>142520::::::::110:262::6:3:3469:1507:3528:::</itemid>
+			<name>Ring of Ascended Glory</name>
+			<member>Hugmoo</member>
+			<time>1491794861</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Odyn</boss>
+			<zone>Trial of Valor-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Hugmoo</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Pachunter</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Terraform</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Ruliet</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Leetoz</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Phylloxeras</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Zamle</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1491760800</time>
+				<time type='leave'>1491786800</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>

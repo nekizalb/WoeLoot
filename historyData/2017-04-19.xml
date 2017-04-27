@@ -1,0 +1,422 @@
+<raidlog><head><export><name>EQdkp Plus XML</name><version>1.0</version></export><tracker><name>RCLootCouncil</name><version>2.3.0</version></tracker><gameinfo><game>World of Warcraft</game><language>enUS</language><charactername>Realtur</charactername></gameinfo></head>
+<raiddata>
+	<zones>
+		<zone>
+			<enter>1492624800</enter>
+			<name>The Nighthold-Mythic</name>
+			<leave>1492650800</leave>
+		</zone>
+	</zones>
+	<bosskills>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492648905</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492651744</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1492650011</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492651931</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492651748</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492651751</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1492655776</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1492650007</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1492655769</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492648833</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1492649429</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1492649435</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1492649446</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1492649993</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1492655773</time>
+		</bosskill>
+		<bosskill>
+			<name>Spellblade Aluriel</name>
+			<time>1492655874</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492648830</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492648838</time>
+		</bosskill>
+		<bosskill>
+			<name>Unknown</name>
+			<time>1492651757</time>
+		</bosskill>
+		<bosskill>
+			<name>Chronomatic Anomaly</name>
+			<time>1492649441</time>
+		</bosskill>
+		<bosskill>
+			<name>Trilliax</name>
+			<time>1492650004</time>
+		</bosskill>
+	</bosskills>
+	<items>
+		<item>
+			<itemid>140888::::::::110:262::6:4:3445:1808:1497:3528:::</itemid>
+			<name>Scorpid Handler's Gloves</name>
+			<member>Hemileia</member>
+			<time>1492648905</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143562::::::::110:262::6:1:569:::</itemid>
+			<name>Chest of the Foreseen Conqueror</name>
+			<member>Hemileia</member>
+			<time>1492651744</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140794::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Arcanogolem Digit</name>
+			<member>Xidous</member>
+			<time>1492650011</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143571::::::::110:262::6:1:569:::</itemid>
+			<name>Chest of the Foreseen Vanquisher</name>
+			<member>Xidous</member>
+			<time>1492651931</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140816::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Fingernail of the Fel Brute</name>
+			<member>Nakuta</member>
+			<time>1492651748</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140887::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Man'ari Skullbuckled Cinch</name>
+			<member>Unworthy</member>
+			<time>1492651751</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140832::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Heart of Frost</name>
+			<member>Unworthy</member>
+			<time>1492655776</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143579::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Protector</name>
+			<member>Mailbomb</member>
+			<time>1492650007</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140834::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Soul of Flame</name>
+			<member>Ruliet</member>
+			<time>1492655769</time>
+			<count>1</count>
+			<cost>0</cost>
+			<note>Offspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140790::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Claw of the Crystalline Scorpid</name>
+			<member>Buddiechrist</member>
+			<time>1492648833</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140860::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Stutterstep Treads</name>
+			<member>Buddiechrist</member>
+			<time>1492649429</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140848::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Robes of Fluctuating Energy</name>
+			<member>Buddiechrist</member>
+			<time>1492649435</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140863::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Temporally Displaced Gloves</name>
+			<member>Buddiechrist</member>
+			<time>1492649446</time>
+			<count>1</count>
+			<cost>nil</cost>
+			<note>Disenchant</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140880::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Gilded Nightborne Waistplate</name>
+			<member>Cuetip</member>
+			<time>1492649993</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140878::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Duskwatch Plate Bracers</name>
+			<member>Cuetip</member>
+			<time>1492655773</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140895::::::::110:262::6:3:3518:1502:3528:::</itemid>
+			<name>Spellblade's Gemmed Signet</name>
+			<member>Trahmen</member>
+			<time>1492655874</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Spellblade Aluriel</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140790::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Claw of the Crystalline Scorpid</name>
+			<member>Snuchy</member>
+			<time>1492648830</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Offspec</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140902::::::::110:262::6:3:3445:1512:3337:::</itemid>
+			<name>Jagged Carapace Wristclamps</name>
+			<member>Snuchy</member>
+			<time>1492648838</time>
+			<count>1</count>
+			<cost>2</cost>
+			<note>Minor Upgrade</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>144405::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Waistclasp of Unethical Power</name>
+			<member>Melacath</member>
+			<time>1492651757</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Minor Upgrade</note>
+			<boss />
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>140894::::::::110:262::6:3:3445:1497:3528:::</itemid>
+			<name>Zealous Timestone Pendant</name>
+			<member>Rool</member>
+			<time>1492649441</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Chronomatic Anomaly</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+		<item>
+			<itemid>143579::::::::110:262::6:1:569:::</itemid>
+			<name>Cloak of the Foreseen Protector</name>
+			<member>Dhonrue</member>
+			<time>1492650004</time>
+			<count>1</count>
+			<cost>3</cost>
+			<note>Mainspec</note>
+			<boss>Trilliax</boss>
+			<zone>The Nighthold-Mythic</zone>
+		</item>
+	</items>
+	<members>
+		<member>
+			<name>Rool</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Unworthy</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Buddiechrist</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Melacath</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Ruliet</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Xidous</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Hemileia</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Trahmen</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Dhonrue</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Snuchy</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Cuetip</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Nakuta</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+		<member>
+			<name>Mailbomb</name>
+			<times>
+				<time type='join'>1492624800</time>
+				<time type='leave'>1492650800</time>
+			</times>
+		</member>
+	</members>
+</raiddata></raidlog>
